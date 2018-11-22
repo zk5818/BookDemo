@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.kery.bookdemo.MainActivity">
+
+    <TextView
+        android:id="@+id/t1"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginTop="10dp"
+        android:background="#2ddd81"
+        android:gravity="center"
+        android:text="Notification" />
+
+    <TextView
+        android:id="@+id/t2"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginTop="10dp"
+        android:background="#2ddd81"
+        android:gravity="center"
+        android:text="跳水滴" />
+
+    <TextView
+        android:id="@+id/t3"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginTop="10dp"
+        android:background="#2ddd81"
+        android:gravity="center"
+        android:text="工厂模式" />
+
+    <TextView
+        android:id="@+id/t4"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginTop="10dp"
+        android:background="#2ddd81"
+        android:gravity="center"
+        android:text="eventbus" />
+
+    <TextView
+        android:id="@+id/t5"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginTop="10dp"
+        android:background="#2ddd81"
+        android:gravity="center"
+        android:text="动画弹窗pop" />
+
+    <TextView
+        android:id="@+id/t6"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginTop="10dp"
+        android:background="#2ddd81"
+        android:gravity="center"
+        android:text="图片变大" />
+
+    <TextView
+        android:id="@+id/t7"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginTop="10dp"
+        android:background="#2ddd81"
+        android:gravity="center"
+        android:text="图片选择" />
+    <TextView
+        android:id="@+id/t8"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginTop="10dp"
+        android:background="#2ddd81"
+        android:gravity="center"
+        android:text="Lambda表达式" />
+</LinearLayout>

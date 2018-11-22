@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public name="mis_asv" type="drawable" />
+    <string name="mis_folder_all">所有照片</string>
+    <string name="mis_preview">预览</string>
+    <string name="mis_msg_no_camera">没有系统相机</string>
+    <string name="mis_msg_amount_limit">已经达到最高选择数量</string>
+    <string name="mis_action_done">完成</string>
+    <string name="mis_photo_unit">张</string>
+    <string name="mis_tip_take_photo">拍摄照片</string>
+    <string name="mis_tip_take_video">拍摄视频</string>
+    <string name="mis_error_image_not_exist">图片错误</string>
+    <string name="mis_error_no_permission">无权限</string>
+    <string name="mis_permission_dialog_title">权限拒绝</string>
+    <string name="mis_permission_dialog_ok">好</string>
+    <string name="mis_permission_dialog_cancel">拒绝</string>
+    <string name="mis_permission_rationale">浏览图片需要您提供浏览存储的权限</string>
+    <string name="mis_permission_rationale_write_storage">保存拍照图片需要您提供写存储权限</string>
+    <string name="mis_permission_camera">拍摄照片需要您提供拍照权限</string>
+    <string name="mis_action_button_string">%1$s(%2$d/%3$d)</string>
+
+    <string-array name="indexable_letter">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BookDemo</string>
+    <string name="title_activity_event_bus">EventBusActivity</string>
+
+    <string name="permission_get_accounts_hint">没有验证账户权限，无法开启这个功能，请开启权限。</string>
+    <string name="permission_read_phone_hint">没有读取电话状态权限，无法开启这个功能，请开启权限。</string>
+    <string name="permission_call_phone_hint">没有拨打电话权限，无法开启这个功能，请开启权限。</string>
+    <string name="permission_camera_hint">没有拍照权限，无法开启这个功能，请开启权限。</string>
+    <string name="permission_access_fine_location_hint">没有获取精确位置权限，无法开启这个功能，请开启权限。</string>
+    <string name="permission_access_coarse_location_hint">没有获取错略位置权限，无法开启这个功能，请开启权限。</string>
+    <string name="permission_read_external_hint">没有存储权限，无法开启这个功能，请开启权限。</string>
+    <string name="permission_white_external_hint">没有存储权限，无法开启这个功能，请开启权限。</string>
+    <string name="permission_recode_audio_hint">没有录音权限，无法开启这个功能，请开启权限。</string>
+
+
+</resources>

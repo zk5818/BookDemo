@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="gray_bd">#BDBDBD</color>
+
+    <color name="xui_nick_name_blue">#336699</color>
+    <color name="xui_text_high_light">#81ccea</color>
+    <color name="xui_list_view_line">#c8ccce</color>
+
+    <color name="xui_head_background">#f5f5f5</color>
+    <color name="xui_head_title">#333333</color>
+    <color name="xui_head_title_disable">#999999</color>
+    <color name="xui_head_bottom_line">#d8d8d8</color>
+    <color name="xui_layout">#f5f5f5</color>
+    <color name="xui_line">#d8d8d8</color>
+    <color name="xui_list_item_pressed">#d4d4d4</color>
+
+    <color name="xui_yellow_active">#fd971d</color>
+    <color name="xui_yellow">#f0ad4d</color>
+
+    <color name="xui_blue">#2a00ff</color>
+    <color name="xui_blue_deep">#91a7b9</color>
+
+    <color name="xui_hint">#b0b0b0</color>
+
+    <color name="xui_text_blue_81ccea">#81ccea</color>
+
+    <color name="xui_text_gray_46">#464646</color>
+    <color name="xui_text_gray_8d">#8d8d8d</color>
+    <color name="xui_text_gray_d6">#d6d6d6</color>
+    <color name="xui_text_gray_f4">#f4f4f4</color>
+    <color name="xui_text_gray_f6">#f6f6f6</color>
+    <color name="xui_text_green_75cf43">#75cf43</color>
+    <color name="xui_text_orange_ffc13d">#ffc13d</color>
+    <color name="xui_text_red_f48368">#f48368</color>
+    <color name="xui_text_black_4b">#4b4b4b</color>
+    <color name="xui_text_black_3d">#3d3d3d</color>
+    <color name="xui_black">#000000</color>
+
+    <!-- 文字白色 -->
+    <color name="xui_white">#ffffff</color>
+    <color name="xui_white_alpha_66">#66ffffff</color>
+
+    <!-- 标题按钮正常显示颜色 -->
+    <color name="xui_head_menu_text">#ffdf92</color>
+
+    <!-- 标题按钮按压颜色 -->
+    <color name="xui_head_menu_icon_pressed">#e0e0e0</color>
+    <color name="xui_picture_menu_button_pressed">#a5a5a5</color>
+    <color name="xui_picture_menu_button">#ffffff</color>
+
+    <color name="xui_fresco_failure">#ffff3333</color>
+    <color name="xui_transparent">@android:color/transparent</color>
+    <color name="xui_status_bar_background">#608d8d8d</color>
+
+    <color name="xui_progress_red">#FFC93437</color>
+    <color name="xui_progress_blue">#FF375BF1</color>
+    <color name="xui_progress_yellow">#FFF7D23E</color>
+    <color name="xui_progress_green">#FF34A350</color>
+
+    <color name="xui_lingdan">#46d085</color>
+    <color name="rc_divider_color">#d9d9d9</color>
+    <color name="cancel_color">#202020</color>
+
+
+    <color name="toast_background">#666666</color>
+    <color name="count_button2">#9a9a9a</color>
+    <color name="count_button1">#202020</color>
+
+    <!-- Primary 主色 -->
+    <color name="primary_one">#202020</color>
+    <color name="primary_two">#ffffff</color>
+    <color name="primary_three">#9a9a9a</color>
+    <!-- normal -->
+    <color name="normal1">#fa5e5f</color>
+    <color name="normal_two">#4cb1e7</color>
+    <color name="normal_three">#cdcdd4</color>
+    <color name="normal_four">#fd9a30</color>
+    <color name="normal_five">#45cf84</color>
+    <color name="normal_six">#e5e5e5</color>
+
+    <color name="mis_actionbar_color">#21282C</color>
+    <color name="default_indexBar_textColor">#999999</color>
+    <dimen name="default_indexBar_textSize">14sp</dimen>
+    <color name="default_indexBar_selectedTextColor">#f33737</color>
+    <dimen name="default_indexBar_textSpace">4dp</dimen>
+    <drawable name="default_indexBar_background">@android:color/transparent</drawable>
+    <dimen name="default_indexBar_layout_width">24dp</dimen>
+</resources>
